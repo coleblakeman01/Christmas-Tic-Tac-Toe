@@ -1,0 +1,121 @@
+*{
+    margin: 0px;
+}
+
+
+.header{
+    text-align: center;
+}
+
+.christmas{
+    color: red;
+}
+
+.themed{
+    color: green;
+}
+
+.playingBoard{
+    height: 51vw;
+    width: 51vw;
+    margin: 5vw auto;
+    border: .5rem solid #0f0f0f;
+    cursor: pointer;
+}
+
+.row1{
+    height: 17vw;
+    width: 51vw;
+    display: flex;
+}
+
+.box1{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box2{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box3{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.row2{
+    height: 17vw;
+    width: 51vw;
+    display: flex;
+}
+
+.box4{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box5{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box6{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.row3{
+    height: 17vw;
+    width: 51vw;
+    display: flex;
+}
+
+.box7{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box8{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.box9{
+    height: 17vw;
+    width: 17vw;
+    background-color: #ffffff;
+    border: .1rem solid #0f0f0f;
+}
+
+.playAgainButton{
+    border-radius: 15%;
+    font-size: 5vw;
+    background-color: red;
+    cursor: pointer;
+}
+
+.playAgainButton:hover{
+    background-color: green;
+}
+
+.button{
+    text-align: center;
+}
+
